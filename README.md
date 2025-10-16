@@ -26,7 +26,7 @@
       --border: #ff16d8; --accent: #48ff00; --accent-strong: #ff0062; --danger: #ff0000; --shadow: 0 2px 8px rgba(2,6,23,0.6);
     }
 
-    html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif; overflow: hidden;}
+    html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif;}
     body{background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased; background-attachment: fixed; background-repeat: no-repeat; background-size: cover;}
 
     .container{max-width:1200px;margin:24px auto;padding:18px}
